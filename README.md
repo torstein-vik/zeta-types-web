@@ -4,6 +4,7 @@ A web client for working with zeta-types and tannakian symbols.
 
 ## Architecture plan
 
+Client-side: Bootstrap w/ React
 Host/Framework: Firebase
 Computation: SageMathCloud/CoCalc
 
